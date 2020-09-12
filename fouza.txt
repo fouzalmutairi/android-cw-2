@@ -1,0 +1,13 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        fouz();
+     }
+     public static void fouz(){
+         for(int f =1;f<=10;f++){
+             if (f!=5){
+             System.out.println(f);}
+         }
+     }
+}
+         
